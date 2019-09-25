@@ -1,0 +1,85 @@
+div {
+  text-align: center;
+}
+p {
+  padding: 10px;
+}
+.header  {
+  color: white;
+  font-family: century;
+}
+.div1 {
+  color: black;
+  font-family: century;
+  font-size: 40px;
+}
+.div2 {
+  color: yellow;
+  font-family: century;
+  font-size: 40px;
+}
+.sectionheader {
+  background-color: silver;
+  width: 100%;
+  min-height: 200px;
+  padding: 8rem 0;
+}
+.section1 {
+  background-color: yellow;
+  width: 100%;
+  min-height: 200px;
+  padding: 8rem 0;
+}
+.section2 {
+  background-color: black;
+  width: 100%;
+  min-height: 200px;
+  padding: 8rem 0;
+}
+.section1 img  {
+  border: 5px solid black;
+}
+.section2 img  {
+  border: 5px solid white;
+}
+#title {
+  font-size: 200px;
+}
+#title {
+  background-color: black;
+}
+img > #title {
+  width:100%;
+  height:100%;
+}
+html {
+  scroll-behavior: smooth;
+}
+h1 {
+  font-size: 100px;
+}
+img {
+  width: 100%;
+}
+table, th, td {
+  border: 5px solid black;
+}
+th, td {
+  padding: 15px;
+}
+img > td {
+    width:300px;
+    height:300px;
+}
+table {
+    width:100%;
+}
+.navbar {
+  background-color: silver;
+}
+.navbar a {
+  color: white;
+}
+.text2 {
+  font-size: 30px !important;
+}
